@@ -1,20 +1,7 @@
 body {
      font-family: Didot;
+     font-size: 22 px;
      text-align: center;
-     float: right;
-     top: 200px;
-}
-
-.cover {
-       background-color: #778899;
-       position: fixed;
-       bottom: 0;
-       right: 0;
-       left: 0;
-       top: 0;
-       opacity: 0.8;
-}
-
-.image {
-    float: left;
+     display: block;
+     top: 300px;
 }
